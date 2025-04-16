@@ -1,0 +1,243 @@
+Rank,Class,ModelYear,Manufacturer,ModelName,VehicleType,Weight,DriveType,Transmission,Gears,FuelDelivery,Horsepower,EngineDisplacement,MPG_City,MPG_Hwy,AvgMPG
+Low,Car,1975,GM,TORONADO,Sedan/Wagon,5500,Front,Automatic,,Carb,175,455,7.7,9.4,
+Low,Car,1976,Jaguar Land Rover,JENSEN,Sedan/Wagon,4500,Rear,Automatic,,Carb,250,440,7.7,9.9,
+Low,Car,1977,BMW,ROLLS ROYCE,Sedan/Wagon,5500,Rear,Automatic,,Carb,170,412,7.8,8.9,
+Low,Car,1978,Stellantis,MONACO,Sedan/Wagon,5000,Rear,Automatic,,Carb,240,440,7.5,8.7,
+Low,Car,1979,Aston Martin,ASTON MARTIN V8,Sedan/Wagon,4500,Rear,Manual,,Carb,60,326,6.8,9.7,
+Low,Car,1980,Aston Martin,79 ASTON MARTIN,Sedan/Wagon,4500,Rear,Manual,,Carb,275,326,6.8,9.7,
+Low,Car,1981,BMW,CAMARGUE,Sedan/Wagon,5500,Rear,Automatic,,Port,170,412,8,9.5,
+Low,Car,1981,BMW,CORNICHE,Sedan/Wagon,5500,Rear,Automatic,,Port,170,412,8,9.5,
+Low,Car,1982,Stellantis,QUATTROPORTE,Sedan/Wagon,5000,Rear,Automatic with Lockup,,Carb,288,301,7.6,9.8,
+Low,Car,1983,Stellantis,QUATTROPORTE,Sedan/Wagon,5000,Rear,Automatic with Lockup,,Carb,288,301,7.6,9.8,
+Low,Car,1984,Stellantis,QUATTROPORTE,Sedan/Wagon,5000,Rear,Automatic with Lockup,,Carb,288,301,7.6,9.8,
+Low,Car,1985,Stellantis,QUATTROPORTE,Sedan/Wagon,5000,Rear,Automatic with Lockup,,Carb,288,301,7.6,9.8,
+Low,Car,1986,VW,COUNTACH,Sedan/Wagon,3500,Rear,Manual,,Port,420,315,6.1,10.4,
+Low,Car,1987,VW,COUNTACH,Sedan/Wagon,3500,Rear,Manual,,Port,420,315,6.1,10.4,
+Low,Car,1988,VW,COUNTACH,Sedan/Wagon,3500,Rear,Manual,,Port,420,315,6.1,10.4,
+Low,Car,1989,VW,COUNTACH,Sedan/Wagon,3500,Rear,Manual,,TBI,420,315,6,10.3,
+Low,Car,1990,Aston Martin,LAG,Sedan/Wagon,5000,Rear,Automatic with Lockup,,Port,240,326,8.2,10.7,
+Low,Car,1991,Vector,VECTOR W8,Sedan/Wagon,4000,Rear,Automatic,,Port,450,365,7.2,10.5,
+Low,Car,1992,Vector,VECTOR W8,Sedan/Wagon,4000,Rear,Automatic,,Port,450,365,7.2,10.5,
+Low,Car,1993,Vector,VECTOR W8,Sedan/Wagon,4000,Rear,Automatic,,Port,450,365,7.1,10.4,
+Low,Car,1994,VW,DB132/DIABLO,Sedan/Wagon,4000,4wd,Manual,,Port,492,348,9,13.7,
+Low,Car,1995,Stellantis,FERRARI F50,Sedan/Wagon,3000,Rear,Manual,6,Port,510,287,7.3,10.7,
+Low,Car,1996,VW,AVTECH SC - M12,Sedan/Wagon,4000,Rear,Manual,5,Port,492,348,8.5,12.2,
+Low,Car,1997,VW,DB132-144 - DIABLO,Sedan/Wagon,4000,4wd,Manual,5,Port,492,348,8.7,13.6,
+Low,Car,1998,Ferrari,FERRARI 550 MARANELLO,Sedan/Wagon,4000,Rear,Manual,6,Port,475,334,8.6,14.1,
+Low,Car,1999,Stellantis,FERRARI 550 MARANELLO,Sedan/Wagon,4000,Rear,Manual,6,Port,475,334,8.5,13.4,
+Low,Car,2000,Stellantis,FERRARI 550 MARANELLO,Sedan/Wagon,4000,Rear,Manual,6,Port,475,334,7.9,12.4,
+Low,Car,2001,Stellantis,FERRARI 550 MARANELLO-BARCHE,Sedan/Wagon,4000,Rear,Manual,6,Port,475,334,7.9,12.4,
+Low,Car,2002,VW,L-147 MURCIELAGO,Sedan/Wagon,4000,4wd,Manual,6,Port,580,378,8.4,12,
+Low,Car,2003,Stellantis,ENZO FERRARI,Sedan/Wagon,3500,Rear,Automatic with Lockup,6,Port,646,366,7.1,11.6,
+Low,Car,2004,VW,L-147-148 MURCIELAGO,Sedan/Wagon,4000,4wd,Manual,6,Port,580,378,8.4,12.5,
+Low,Car,2005,VW,L-147-148 MURCIELAGO,Sedan/Wagon,4000,4wd,Manual,6,Port,580,378,8.3,12.5,
+Low,Car,2006,VW,VEYRON,Sedan/Wagon,4500,4wd,Automatic with Lockup,6,Port,1001,488,7.8,13.8,10.3
+Low,Car,2007,VW,L-147-148 MURCIELAGO,Sedan/Wagon,4000,4wd,Manual,6,Port,631,396,8.3,12.8,10.4
+Low,Car,2008,VW,VEYRON,Sedan/Wagon,4500,4wd,Automatic with Lockup,6,Port,1001,488,7.8,13,10.1
+Low,Car,2009,VW,MURCIELAGO ROADSTER,Sedan/Wagon,4000,4wd,Manual,6,Port,631,396,8.3,12.8,10.4
+Low,Car,2010,VW,Veyron,Sedan/Wagon,4500,4wd,Automatic,7,Port,1001,488,7.8,13,10.1
+Low,Car,2011,Ferrari,Ferrari 612 SCAGLIETTI,Sedan/Wagon,4500,Rear,Automatic,6,Port,532,348,9.6,16,12.4
+Low,Car,2012,VW,Veyron,Sedan/Wagon,4500,4wd,Automatic,7,Port,1200,488,8.4,14.8,11.2
+Low,Car,2013,VW,Veyron,Sedan/Wagon,4500,4wd,Automatic with Lockup,7,Port,1200,488,8.4,14.8,11.2
+Low,Car,2014,VW,Veyron,Sedan/Wagon,4500,4wd,Automatic with Lockup,7,Port,1200,488,8.4,14.8,11.2
+Low,Car,2015,VW,Aventador Roadster,Sedan/Wagon,4000,4wd,Automatic with Lockup,7,Port,700,397,9.8,16.2,12.7
+Low,Car,2016,Ferrari,F12 tdf,Sedan/Wagon,4000,Rear,Automatic,7,GDI,764,384,11,14.8,12.9
+Low,Car,2017,VW,Aventador Coupe LP740-4,Sedan/Wagon,4000,4wd,Automatic with Lockup,7,Port,740,397,9.8,16.3,12.7
+Low,Car,2018,VW,Chiron,Sedan/Wagon,4500,4wd,Automatic with Lockup,7,Port,1479,488,8.8,14.1,11.2
+Low,Car,2019,VW,Chiron,Sedan/Wagon,4500,4wd,Automatic with Lockup,7,Port,1479,488,8.8,14.1,11.2
+Low,Car,2020,VW,Divo,Sedan/Wagon,4500,4wd,Automatic with Lockup,7,Port,1500,488,8.6,12.9,10.6
+Low,Car,2021,VW,Chiron Pur Sport,Sedan/Wagon,4500,4wd,Automatic with Lockup,7,Port,1500,488,7.7,11,9.3
+Low,Car,2022,VW,Chiron Super Sport,Sedan/Wagon,4500,4wd,Automatic,7,GDI,1600,488,7.8,11.2,9.4
+Low,Car,2022,VW,Chiron Pur Sport,Sedan/Wagon,4500,4wd,Automatic,7,GDI,1500,488,7.8,11.2,9.4
+Low,Truck,1975,Ford,FORD F-250,Pickup,5000,Rear,Automatic,,Carb,150,360,7.5,7.8,7.6
+Low,Truck,1976,GM,CHEV P20 STEP,Minivan/Van,6500,Rear,Automatic,,Carb,245,454,7.3,8.5,7.8
+Low,Truck,1977,Toyota,LAND CRUISER WAG,Truck SUV,4500,Rear,Manual,,Carb,125,258,7.4,8.9,8
+Low,Truck,1978,GM,CHEV C20 SUBN,Truck SUV,5500,Rear,Automatic,,Carb,185,454,8,8.1,8
+Low,Truck,1978,GM,GMC C2500 SUBN,Truck SUV,5500,Rear,Automatic,,Carb,185,454,8,8.1,8
+Low,Truck,1979,Ford,PICKUP,Pickup,5500,Rear,Automatic,3,Carb,270,460,8.1,7.7,7.9
+Low,Truck,1980,GM,CAB CHAS.,Pickup,6000,Rear,Automatic with Lockup,3,Carb,155,350,8.1,8.8,8.4
+Low,Truck,1981,Stellantis,B250 VAN CONVERS,Minivan/Van,5500,Rear,Automatic,3,Carb,170,360,9,10.1,9.4
+Low,Truck,1982,GM,G30 SPRTVN 2WD,Minivan/Van,5500,Rear,Automatic with Lockup,3,Carb,165,350,9.5,10.8,10.1
+Low,Truck,1982,GM,G30 SPRTVN 2WD,Minivan/Van,6000,Rear,Automatic with Lockup,3,Carb,165,350,9.5,10.8,10.1
+Low,Truck,1982,GM,G35 SPRTVN 2WD,Minivan/Van,5500,Rear,Automatic with Lockup,3,Carb,165,350,9.5,10.8,10.1
+Low,Truck,1982,GM,G35 SPRTVN 2WD,Minivan/Van,6000,Rear,Automatic with Lockup,3,Carb,165,350,9.5,10.8,10.1
+Low,Truck,1983,Ford,E250 ECONOLINE 2,Minivan/Van,5500,Rear,Automatic,3,Carb,143,351,9.8,10.8,10.3
+Low,Truck,1984,Stellantis,B350 WAGON 2WD,Minivan/Van,5500,Rear,Automatic,3,Carb,175,360,8.7,10.7,9.5
+Low,Truck,1985,Ford,E250 ECONOLINE 2,Minivan/Van,5500,Rear,Automatic,3,Carb,154,351,9.5,9.6,9.6
+Low,Truck,1986,Stellantis,B350 WAGON 2WD,Minivan/Van,5500,Rear,Automatic,3,Carb,170,360,9.8,11.2,10.4
+Low,Truck,1987,Stellantis,AW150 RAMCHARGER,Truck SUV,5000,4wd,Automatic,3,Carb,175,360,9.2,11.2,10
+Low,Truck,1988,Stellantis,W100/W150 PICKUP,Pickup,5000,4wd,Automatic,3,Carb,175,360,9.2,10.6,9.8
+Low,Truck,1988,Stellantis,W250 PICKUP 4WD,Pickup,5000,4wd,Automatic,3,Carb,175,360,9.2,10.6,9.8
+Low,Truck,1989,Stellantis,B350 WAGON 2WD,Minivan/Van,5500,Rear,Automatic,3,TBI,145,360,9.7,10.9,10.2
+Low,Truck,1990,GM,C1500 P/U 2WD,Pickup,4500,Rear,Automatic,3,TBI,230,454,9.3,10.8,10
+Low,Truck,1991,Stellantis,W250 PICKUP 4WD,Pickup,5500,4wd,Manual,3,TBI,190,360,9.1,12.3,10.4
+Low,Truck,1992,Stellantis,W250 PICKUP 4WD,Pickup,5000,4wd,Automatic,4,TBI,203,360,9.6,11.4,10.4
+Low,Truck,1992,Stellantis,W250 PICKUP 4WD,Pickup,5500,4wd,Automatic,4,TBI,203,360,9.6,11.4,10.4
+Low,Truck,1993,GM,C1500 P/U 2WD,Pickup,4500,Rear,Automatic with Lockup,4,TBI,255,454,9.3,12,10.5
+Low,Truck,1994,Stellantis,B150/B250 WAGON,Minivan/Van,5500,Rear,Automatic with Lockup,4,Port,230,360,11,13.8,12.2
+Low,Truck,1995,Stellantis,B3500 WAGON 2WD,Minivan/Van,5500,Rear,Automatic with Lockup,4,Port,230,360,10.7,14.1,12.2
+Low,Truck,1996,Stellantis,B3500 WAGON 2WD,Minivan/Van,5500,Rear,Automatic with Lockup,4,Port,230,360,10.7,14.1,12.2
+Low,Truck,1997,Stellantis,B3500 WAGON 2WD,Minivan/Van,5500,Rear,Automatic with Lockup,4,Port,230,360,10.3,14.1,12
+Low,Truck,1997,Stellantis,B3500 WAGON 2WD,Minivan/Van,6000,Rear,Automatic with Lockup,4,Port,230,360,10.3,14.1,12
+Low,Truck,1998,Stellantis,RAM 1500 PICKUP 4WD,Pickup,6000,4wd,Automatic with Lockup,4,Port,235,360,10.9,15.5,12.9
+Low,Truck,1999,Stellantis,DURANGO 4WD,Truck SUV,5000,4wd,Automatic with Lockup,4,Port,245,360,11,15.5,13
+Low,Truck,1999,Stellantis,RAM 1500 PICKUP 4WD,Pickup,5000,4wd,Automatic with Lockup,4,Port,245,360,11,15.5,13
+Low,Truck,2000,Jaguar Land Rover,RANGE ROVER,Truck SUV,5000,4wd,Automatic with Lockup,4,Port,222,278,11.1,14.3,12.6
+Low,Truck,2001,GM,K1500 SIERRA 4WD,Pickup,5500,4wd,Automatic with Lockup,4,Port,300,364,10.4,13.3,11.8
+Low,Truck,2002,Stellantis,RAM 1500 PICKUP 4WD,Pickup,5500,4wd,Automatic with Lockup,4,Port,245,360,10.5,14.5,12.4
+Low,Truck,2003,GM,G1500-2500 CHEVY VAN 2WD,Minivan/Van,6000,Rear,Automatic with Lockup,4,Port,300,364,8.9,13.2,10.9
+Low,Truck,2004,GM,G1500-2500 CHEVY VAN 2WD,Minivan/Van,6000,Rear,Automatic with Lockup,4,Port,300,412,8.5,12.5,10.4
+Low,Truck,2004,GM,G1500-2500 SAVANA 2WD CARGO,Minivan/Van,6000,Rear,Automatic with Lockup,4,Port,300,412,8.5,12.5,10.4
+Low,Truck,2005,Stellantis,RAM 1500 PICKUP 2WD,Pickup,6000,Rear,Automatic with Lockup,4,Port,500,505,8.2,11.5,9.8
+Low,Truck,2006,Stellantis,RAM 1500 PICKUP 2WD,Pickup,6000,Rear,Automatic with Lockup,4,Port,500,505,8.2,11.5,9.8
+Low,Truck,2007,Mercedes,G55 AMG,Truck SUV,6000,4wd,Automatic with Lockup,7,Port,493,333,10.8,13.5,12.2
+Low,Truck,2008,Mercedes,G55 AMG,Truck SUV,6000,4wd,Automatic with Lockup,5,Port,493,332,10.8,13.5,12.2
+Low,Truck,2009,Mercedes,ML63 AMG,Truck SUV,5500,4wd,Automatic with Lockup,7,Port,503,379,10.5,14.4,12.4
+Low,Truck,2010,Mercedes,G 55 AMG,Truck SUV,6000,4wd,Automatic with Lockup,5,Port,500,332,10.8,13.6,12.2
+Low,Truck,2011,Ford,E150 Van Propane,Minivan/Van,6000,Rear,Automatic with Lockup,4,Port,255,330,6.6,6.7,6.7
+Low,Truck,2011,Ford,E150 Wagon Propane,Minivan/Van,6000,Rear,Automatic with Lockup,4,Port,255,330,6.6,6.7,6.7
+Low,Truck,2011,Ford,E250 Van Propane,Minivan/Van,5500,Rear,Automatic with Lockup,4,Port,255,330,6.6,6.7,6.7
+Low,Truck,2011,Ford,E250 Van Propane,Minivan/Van,6000,Rear,Automatic with Lockup,4,Port,255,330,6.6,6.7,6.7
+Low,Truck,2011,Ford,E350 Van Propane,Minivan/Van,6500,Rear,Automatic with Lockup,4,Port,255,330,6.6,6.7,6.7
+Low,Truck,2011,Ford,E350 Wagon Propane,Minivan/Van,6500,Rear,Automatic with Lockup,4,Port,255,330,6.6,6.7,6.7
+Low,Truck,2012,Ford,E150 Van Propane,Minivan/Van,6000,Rear,Automatic with Lockup,4,Port,255,330,8.9,9.3,9.1
+Low,Truck,2012,Ford,E150 Wagon Propane,Minivan/Van,6000,Rear,Automatic with Lockup,4,Port,255,330,8.9,9.3,9.1
+Low,Truck,2012,Ford,E250 Van Propane,Minivan/Van,5500,Rear,Automatic with Lockup,4,Port,255,330,8.9,9.3,9.1
+Low,Truck,2012,Ford,E250 Van Propane,Minivan/Van,6000,Rear,Automatic with Lockup,4,Port,255,330,8.9,9.3,9.1
+Low,Truck,2012,Ford,E350 Van Propane,Minivan/Van,6500,Rear,Automatic with Lockup,4,Port,255,330,8.9,9.3,9.1
+Low,Truck,2012,Ford,E350 Wagon Propane,Minivan/Van,6500,Rear,Automatic with Lockup,4,Port,255,330,8.9,9.3,9.1
+Low,Truck,2013,Ford,E150 Wagon Propane,Minivan/Van,6500,Rear,Automatic with Lockup,4,Port,255,330,8.9,9.3,9.1
+Low,Truck,2013,Ford,E350 Wagon Propane,Minivan/Van,6500,Rear,Automatic with Lockup,4,Port,255,330,8.9,9.3,9.1
+Low,Truck,2014,Ford,E150 Wagon Propane,Minivan/Van,6500,Rear,Automatic with Lockup,4,Port,255,330,8.9,9.3,9.1
+Low,Truck,2014,Ford,E350 Wagon Propane,Minivan/Van,6500,Rear,Automatic with Lockup,4,Port,255,330,8.9,9.3,9.1
+Low,Truck,2015,GM,G3500 EXPRESS 2WD PASS MDPV,Minivan/Van,7000,Rear,Automatic with Lockup,6,Port,324,366,10.4,15.1,12.7
+Low,Truck,2015,GM,G3500 SAVANA 2WD PASS MDPV,Minivan/Van,7000,Rear,Automatic with Lockup,6,Port,324,366,10.4,15.1,12.7
+Low,Truck,2016,Mercedes,AMG G65,Truck SUV,6000,4wd,Automatic with Lockup,7,Port,621,365,10.6,13.1,11.9
+Low,Truck,2017,Mercedes,G 550 4x4,Truck SUV,7000,4wd,Automatic with Lockup,7,GDI,416,243,10.6,10.9,10.8
+Low,Truck,2018,Mercedes,G 550 4x4,Truck SUV,7000,4wd,Automatic with Lockup,7,GDI,416,243,10.6,10.9,10.8
+Low,Truck,2019,Mercedes,AMG GLE 63,Truck SUV,6000,4wd,Automatic with Lockup,7,GDI,550,333,9.8,14.3,12
+Low,Truck,2019,Mercedes,AMG GLE 63 S,Truck SUV,6000,4wd,Automatic with Lockup,7,GDI,550,333,9.8,14.3,12
+Low,Truck,2020,Ford,F150 Pickup 4WD,Pickup,6000,4wd,Automatic with Lockup,10,Port,650,305,10.6,15.2,12.8
+Low,Truck,2021,Stellantis,1500 TRX 4x4,Pickup,7000,4wd,Automatic with Lockup,8,Port,707,378,10.4,14.1,12.2
+Low,Truck,2022,Stellantis,1500 TRX 4x4,Pickup,7000,4wd,Automatic with Lockup,8,Port,707,378,10.5,14.2,12.3
+High,Car,1975,Honda,CIVIC CVCC,Sedan/Wagon,2000,Front,Manual,5,Carb,52,90,25.4,33,28.3
+High,Car,1976,Honda,CIVIC CVCC,Sedan/Wagon,2000,Front,Manual,3,Carb,60,91,28.4,33.4,30.5
+High,Car,1977,Honda,CIVIC CVCC,Sedan/Wagon,2000,Front,Manual,,Carb,60,91,35.7,40.2,37.6
+High,Car,1978,VW,RABBIT,Sedan/Wagon,2250,Front,Manual,4,Diesel,48,90,35.2,40.7,37.5
+High,Car,1979,VW,RABBIT,Sedan/Wagon,2250,Front,Manual,5,Diesel,48,90,36.7,42.6,39.1
+High,Car,1980,VW,RABBIT,Sedan/Wagon,2250,Front,Manual,5,Diesel,48,90,37.7,44.1,40.3
+High,Car,1981,VW,RABBIT,Sedan/Wagon,2250,Front,Manual,4,Diesel,52,97,37.9,45.4,40.9
+High,Car,1982,VW,RABBIT,Sedan/Wagon,2250,Front,Manual,4,Diesel,52,97,40.9,45.1,42.7
+High,Car,1983,Nissan,NISSAN SENTRA,Sedan/Wagon,2250,Front,Manual,4,Diesel,55,103,43.4,47.8,45.3
+High,Car,1984,Honda,CIVIC COUPE,Sedan/Wagon,2000,Front,Manual,5,Carb,60,82,45.7,51.2,48
+High,Car,1985,GM,FIREFLY,Sedan/Wagon,1750,Front,Manual,5,Carb,48,61,47.4,52.6,49.6
+High,Car,1985,GM,SPRINT,Sedan/Wagon,1750,Front,Manual,5,Carb,48,61,47.4,52.6,49.6
+High,Car,1985,Suzuki,SA310,Sedan/Wagon,1750,Front,Manual,5,Carb,48,61,47.4,52.6,49.6
+High,Car,1986,GM,SPRINT ER,Sedan/Wagon,1750,Front,Manual,5,Carb,46,61,54.8,59.2,56.8
+High,Car,1987,GM,SPRINT ER,Sedan/Wagon,1750,Front,Manual,5,Carb,46,61,52.7,57.4,54.8
+High,Car,1988,GM,SPRINT METRO,Sedan/Wagon,1750,Front,Manual,5,Carb,46,61,52.2,57.1,54.4
+High,Car,1989,Honda,CIVIC CRX,Sedan/Wagon,2000,Front,Manual,5,Port,62,91,47.9,53.8,50.6
+High,Car,1990,GM,METRO XFI,Sedan/Wagon,1750,Front,Manual,5,TBI,49,61,50.7,56.7,53.4
+High,Car,1991,GM,METRO XFI,Sedan/Wagon,1750,Front,Manual,5,TBI,55,61,50.2,56.3,53
+High,Car,1992,GM,METRO XFi,Sedan/Wagon,1750,Front,Manual,5,TBI,55,61,49.6,56,52.6
+High,Car,1993,GM,METRO XFi,Sedan/Wagon,1750,Front,Manual,5,TBI,55,61,49.1,55.6,52.2
+High,Car,1994,GM,METRO XFi,Sedan/Wagon,1750,Front,Manual,5,TBI,55,61,49.3,55.3,52.2
+High,Car,1995,Honda,CIVIC HB VX,Sedan/Wagon,2250,Front,Manual,5,Port,91,91,42.4,53,47.3
+High,Car,1996,Suzuki,SWIFT,Sedan/Wagon,2000,Front,Manual,5,TBI,55,61,40.3,46.4,43.3
+High,Car,1997,GM,METRO,Sedan/Wagon,2000,Front,Manual,5,TBI,55,61,39.5,46.1,42.8
+High,Car,1998,GM,METRO,Sedan/Wagon,2000,Front,Manual,5,TBI,55,60,38.1,46.1,42
+High,Car,1999,VW,NEW BEETLE,Sedan/Wagon,3000,Front,Manual,5,Diesel,90,116,36.8,45.4,41
+High,Car,1999,VW,NEW GOLF,Sedan/Wagon,3000,Front,Manual,5,Diesel,90,116,36.8,45.4,41
+High,Car,1999,VW,NEW JETTA,Sedan/Wagon,3000,Front,Manual,5,Diesel,90,116,36.8,45.4,41
+High,Car,2000,Honda,INSIGHT,Sedan/Wagon,2000,Front,Manual,5,Port,67,61,51.8,63,57.4
+High,Car,2001,Honda,INSIGHT,Sedan/Wagon,2000,Front,Manual,5,Port,67,61,50.8,61.8,56.3
+High,Car,2002,Honda,INSIGHT,Sedan/Wagon,2000,Front,Manual,5,Port,67,61,50.2,60.7,55.6
+High,Car,2003,Honda,INSIGHT,Sedan/Wagon,2000,Front,Manual,5,Port,67,61,49.4,60.3,55
+High,Car,2004,Honda,INSIGHT,Sedan/Wagon,2000,Front,Manual,5,Port,67,61,48.6,57.9,53.5
+High,Car,2005,Honda,INSIGHT,Sedan/Wagon,2000,Front,Manual,5,Port,73,61,48.3,57.7,53.3
+High,Car,2006,Honda,INSIGHT,Sedan/Wagon,2000,Front,Manual,5,Port,73,61,47.9,57.6,53
+High,Car,2007,Toyota,PRIUS,Sedan/Wagon,3000,Front,CVT,1,Port,76,91,47.7,45.1,46.2
+High,Car,2008,Toyota,PRIUS,Sedan/Wagon,3000,Front,CVT,1,Port,76,91,47.7,45.1,46.2
+High,Car,2009,Toyota,PRIUS,Sedan/Wagon,3000,Front,CVT,1,Port,76,91,47.7,45.1,46.2
+High,Car,2010,Honda,FCX,Sedan/Wagon,4000,Front,Automatic with Lockup,1,FCV,130,,59.4,60.8,60.2
+High,Car,2011,BMW,1 Series Active E,Sedan/Wagon,4000,Rear,Automatic,1,Electric,168,,106.7,96.4,100.6
+High,Car,2012,Mitsubishi,i-MiEV,Sedan/Wagon,2750,Rear,Automatic with Lockup,1,Electric,66,,126.4,98.7,109
+High,Car,2013,Toyota,iQ EV,Sedan/Wagon,2750,Front,CVT,1,Electric,63,,138.3,104.8,117
+High,Car,2014,BMW,I3 BEV,Sedan/Wagon,3000,Rear,Automatic,1,Electric,168,,137.5,111.4,121.3
+High,Car,2015,BMW,I3 BEV,Sedan/Wagon,3000,Rear,Automatic,1,Electric,168,,137.5,111.4,121.3
+High,Car,2016,BMW,I3 BEV,Sedan/Wagon,3000,Rear,Automatic,1,Electric,170,,137.5,111.4,121.3
+High,Car,2017,Hyundai,Ioniq Electric,Sedan/Wagon,3500,Front,Automatic,1,Electric,118,,150,122,132.6
+High,Car,2018,Hyundai,Ioniq Electric,Sedan/Wagon,3500,Front,Automatic,1,Electric,118,,150,122,132.6
+High,Car,2019,Hyundai,Ioniq Electric,Sedan/Wagon,3500,Front,Automatic,1,Electric,134,,150,122,132.6
+High,Car,2020,Tesla,Model 3 Standard Range Plus,Sedan/Wagon,4000,Rear,Automatic,1,Electric,283,,148.4,132,138.6
+High,Car,2021,Tesla,Model 3 Standard Range Plus RWD,Sedan/Wagon,4000,Rear,Automatic,1,Electric,256,,149,132.4,139.1
+High,Car,2022,Lucid,Air G Touring AWD w/19 inch wheels,Sedan/Wagon,5500,4wd,Automatic,1,Electric,1112,,130.2,132.3,131.4
+High,Truck,1975,Nissan,PICKUP,Pickup,2750,Rear,Manual,,Carb,107,119,18.3,24.8,20.8
+High,Truck,1976,Ford,COURIER PICKUP,Pickup,3000,Rear,Manual,,Carb,65,109,21.1,25.9,23
+High,Truck,1977,Ford,COURIER CAB CHAS,Pickup,3000,Rear,Manual,,Carb,67,110,25,31.1,27.4
+High,Truck,1977,Ford,COURIER PICKUP,Pickup,3000,Rear,Manual,,Carb,67,110,25,31.1,27.4
+High,Truck,1977,Mazda,MAZDA B1800 PICK,Pickup,3000,Rear,Manual,,Carb,67,110,25,31.1,27.4
+High,Truck,1978,Ford,COURIER CAB CHAS,Pickup,3000,Rear,Manual,,Carb,67,110,26.3,30,27.8
+High,Truck,1978,Ford,COURIER PICKUP,Pickup,3000,Rear,Manual,,Carb,67,110,26.3,30,27.8
+High,Truck,1978,Mazda,B1800 PICKUP,Pickup,3000,Rear,Manual,,Carb,67,110,26.3,30,27.8
+High,Truck,1979,Ford,COURIER PICKUP,Pickup,3000,Rear,Manual,5,Carb,72,120,24,28.7,25.9
+High,Truck,1979,Mazda,B2000 PICKUP,Pickup,3000,Rear,Manual,5,Carb,72,120,24,28.7,25.9
+High,Truck,1980,VW,2WD,Pickup,2250,Front,Manual,5,Diesel,48,90,35.9,41.6,38.3
+High,Truck,1981,VW,P/U 2WD,Pickup,2250,Front,Manual,5,Diesel,52,97,33.4,39.7,36
+High,Truck,1982,VW,P/U 2WD,Pickup,2250,Front,Manual,4,Diesel,52,97,36.6,37.4,37
+High,Truck,1983,VW,P/U 2WD,Pickup,2250,Front,Manual,4,Diesel,52,97,37.8,38.7,38.2
+High,Truck,1984,GM,P'UP P/U 2WD,Pickup,2750,Rear,Manual,4,Diesel,62,137,34.6,38.3,36.1
+High,Truck,1985,GM,P'UP P/U 2WD,Pickup,2750,Rear,Manual,4,Diesel,62,137,34.6,38.3,36.1
+High,Truck,1986,GM,P'UP 2WD,Pickup,2750,Rear,Manual,4,Diesel,62,137,34.3,38.1,36
+High,Truck,1987,GM,P'UP 2WD,Pickup,3000,Rear,Manual,4,Diesel,60,137,34,38.5,36
+High,Truck,1988,Suzuki,SAMURAI,Truck SUV,2250,4wd,Manual,5,Carb,64,81,27,28.7,27.8
+High,Truck,1989,Suzuki,SIDEKICK,Truck SUV,2250,4wd,Manual,5,Carb,64,79,27.2,28.3,27.7
+High,Truck,1990,Suzuki,SAMURAI,Truck SUV,2500,4wd,Manual,5,TBI,66,79,27.2,28.1,27.6
+High,Truck,1991,Suzuki,SAMURAI,Truck SUV,2500,4wd,Manual,5,TBI,66,79,27,27.9,27.5
+High,Truck,1992,Suzuki,SAMURAI,Truck SUV,2500,4wd,Manual,5,TBI,66,79,26.8,27.8,27.3
+High,Truck,1993,Suzuki,SAMURAI,Truck SUV,2500,4wd,Manual,5,TBI,66,79,26.6,27.7,27.2
+High,Truck,1994,Suzuki,SAMURAI,Truck SUV,2500,4wd,Manual,5,TBI,66,79,26.4,27.6,27
+High,Truck,1995,Suzuki,SAMURAI,Truck SUV,2500,4wd,Manual,5,TBI,66,79,26.3,27.5,26.9
+High,Truck,1996,GM,S10 PICKUP 2WD,Pickup,3000,Rear,Manual,5,Port,118,134,22.3,29.6,25.6
+High,Truck,1996,GM,SONOMA 2WD,Pickup,3000,Rear,Manual,5,Port,118,134,22.3,29.6,25.6
+High,Truck,1997,GM,S10 PICKUP 2WD,Pickup,3000,Rear,Manual,5,Port,118,134,22.2,29.5,25.5
+High,Truck,1997,GM,SONOMA 2WD,Pickup,3000,Rear,Manual,5,Port,118,134,22.2,29.5,25.5
+High,Truck,1998,Ford,RANGER ELECTRIC 2WD,Pickup,5000,Rear,Automatic with Lockup,4,Port,118,152,20.2,32.1,25.1
+High,Truck,1999,GM,TRACKER 4X4 CONVERTIBLE,Truck SUV,3000,4wd,Manual,5,Port,97,97,23,26.3,24.7
+High,Truck,2000,Ford,RANGER ELECTRIC 2WD,Pickup,5000,Rear,Automatic with Lockup,4,Port,118,153,19.9,31.3,24.8
+High,Truck,2001,Ford,RANGER PICKUP 2WD,Pickup,3500,Rear,Manual,5,Port,138,140,21.7,25.5,23.6
+High,Truck,2001,Mazda,B2300 2WD,Pickup,3500,Rear,Manual,5,Port,138,140,21.7,25.5,23.6
+High,Truck,2002,GM,TRACKER 4WD HARDTOP,Truck SUV,3500,4wd,Automatic with Lockup,4,Port,141,118,22.9,28.6,25.8
+High,Truck,2002,Suzuki,VITARA 4-DOOR 4WD,Truck SUV,3500,4wd,Automatic with Lockup,4,Port,141,118,22.9,28.6,25.8
+High,Truck,2003,Ford,RANGER PICKUP 2WD,Pickup,3500,Rear,Manual,5,Port,140,140,21.4,26.4,23.9
+High,Truck,2003,Mazda,B2300 2WD,Pickup,3500,Rear,Manual,5,Port,140,140,21.4,26.4,23.9
+High,Truck,2004,Ford,RANGER PICKUP 2WD,Pickup,3500,Rear,Manual,5,Port,140,140,20.8,26.7,23.8
+High,Truck,2004,Mazda,B2300 2WD,Pickup,3500,Rear,Manual,5,Port,140,140,20.8,26.7,23.8
+High,Truck,2005,Ford,ESCAPE HEV 4WD,Truck SUV,4000,4wd,CVT,1,Port,135,140,28.1,26.3,27
+High,Truck,2006,Ford,ESCAPE HYBRID 4WD,Truck SUV,4000,4wd,CVT,1,Port,135,140,28.1,26.3,27
+High,Truck,2006,Ford,MARINER HYBRID 4WD,Truck SUV,4000,4wd,CVT,1,Port,135,140,28.1,26.3,27
+High,Truck,2006,Mazda,TRIBUTE HYBRID 4WD,Truck SUV,4000,4wd,CVT,1,Port,135,140,28.1,26.3,27
+High,Truck,2007,Ford,ESCAPE HYBRID 4WD,Truck SUV,4000,4wd,CVT,1,Port,133,140,27.6,26.7,27.1
+High,Truck,2007,Ford,MARINER HYBRID 4WD,Truck SUV,4000,4wd,CVT,1,Port,133,140,27.6,26.7,27.1
+High,Truck,2008,Ford,ESCAPE HYBRID 4WD,Truck SUV,4000,4wd,CVT,1,Port,133,140,29.3,27,27.9
+High,Truck,2008,Ford,MARINER HYBRID 4WD,Truck SUV,4000,4wd,CVT,1,Port,133,140,29.3,27,27.9
+High,Truck,2008,Mazda,TRIBUTE HYBRID 4WD,Truck SUV,4000,4wd,CVT,1,Port,133,140,29.3,27,27.9
+High,Truck,2009,GM,VUE HYBRID,Truck SUV,4500,Front,CVT,1,GDI,262,218,26.7,29.7,28.3
+High,Truck,2010,Mazda,TRIBUTE HYBRID 4WD,Truck SUV,4000,4wd,CVT,1,Port,155,153,30.6,27.4,28.7
+High,Truck,2011,Ford,ESCAPE HYBRID 4WD,Truck SUV,4000,4wd,CVT,1,Port,155,153,30.1,26.9,28.2
+High,Truck,2011,Ford,MARINER HYBRID 4WD,Truck SUV,4000,4wd,CVT,1,Port,155,153,30.1,26.9,28.2
+High,Truck,2012,GM,C15 SIERRA 2WD HYBRID,Pickup,6000,Rear,CVT,1,Port,332,366,25.5,32.6,29.1
+High,Truck,2012,GM,C15 SILVERADO 2WD HYBRID,Pickup,6000,Rear,CVT,1,Port,332,366,25.5,32.6,29.1
+High,Truck,2012,GM,C1500 TAHOE 2WD HYBRID,Truck SUV,6000,Rear,CVT,1,Port,332,366,25.5,32.6,29.1
+High,Truck,2012,GM,C1500 YUKON 2WD HYBRID,Truck SUV,6000,Rear,CVT,1,Port,332,366,25.5,32.6,29.1
+High,Truck,2012,GM,ESCALADE 2WD HYBRID,Truck SUV,6000,Rear,CVT,1,Port,332,366,25.5,32.6,29.1
+High,Truck,2013,Subaru,XV CROSSTREK AWD,Truck SUV,3500,4wd,CVT,1,Port,148,122,24.9,32,28.5
+High,Truck,2014,Subaru,XV CROSSTREK AWD,Truck SUV,3500,4wd,CVT,1,Port,148,122,28.8,32.2,30.6
+High,Truck,2015,Subaru,XV CROSSTREK HYBRID,Truck SUV,3500,4wd,CVT,1,Port,148,122,29.4,33.3,31.5
+High,Truck,2016,Toyota,RAV4 HYBRID AWD,Truck SUV,4000,4wd,CVT,1,Port,112,152,34,30.3,31.8
+High,Truck,2017,Stellantis,Pacifica Hybrid,Minivan/Van,5000,Front,CVT,1,Port,220,220,62.5,41.5,48.5
+High,Truck,2018,Tesla,Model X 75D,Truck SUV,5500,4wd,Automatic,1,Electric,518,,91.2,95.4,93.5
+High,Truck,2019,Tesla,Model X Standard Range,Truck SUV,5500,4wd,Automatic,1,Electric,534,,104.7,97.5,100.5
+High,Truck,2020,Tesla,Model X Long Range Plus,Truck SUV,5500,4wd,Automatic,1,Electric,534,,108.4,100.7,103.9
+High,Truck,2021,Tesla,Model Y Standard Range RWD,Truck SUV,4000,Rear,Automatic,1,Electric,280,,139.9,118.7,127
+High,Truck,2022,Tesla,Model Y AWD,Truck SUV,4500,4wd,Automatic,1,Electric,809,,128.5,115.9,121
