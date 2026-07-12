@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_hotel_data",
+  "source_file": "HW1_3a.sas",
+  "source_blob_sha": "93f50efd875ac1096bcce5a120ed2155a8cf7938",
+  "source_commit": "b15e090ca7528048006e16d58bb10ecdf1832cba",
+  "notes": "LIBNAME + INFILE (default whitespace list input) reading a 15-row Hotel.dat sample, then PROC PRINT. Hardcoded Windows path replaced with an inline DATALINES block carrying the same sample rows (CRLF normalized to LF), so the bundle is a single self-contained script the shipped run_jenner.sh runner (which uploads only script text, no input/ files) can actually submit; INPUT statement and PROC PRINT kept exactly as authored. RoomType $ is declared as a single list-input token, but several RoomType values in the data have embedded spaces ('Deluxe Suite', 'Basic no view', 'Basic w/view') -- this causes the same field misalignment cascade the original assignment's own data exhibits (e.g. 'Deluxe'/'Suite' split across NumDaysInternetUse/RoomType), faithfully reproduced rather than corrected."
+}

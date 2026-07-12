@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_cars_means_output",
+  "source_file": "HW1_2e.sas",
+  "source_blob_sha": "1d91d260f55b1c2a077a6bdcea3941b19fb57640",
+  "source_commit": "b15e090ca7528048006e16d58bb10ecdf1832cba",
+  "notes": "Fully self-contained script (inline DATALINES, 3 rows x 3 numeric columns) -- no path or data substitution needed. PROC MEANS (mean, noprint) with an OUTPUT statement producing per-column means into a summary dataset, then PROC PRINT of that summary. Shipped essentially byte-identical to the original."
+}

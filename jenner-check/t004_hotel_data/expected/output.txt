@@ -1,0 +1,18 @@
+  Obs  RoomNumber  NumGuests  CheckInMonth  CheckInDay  CheckInYear  CheckOutMonth  CheckOutDay  CheckOutYear  InternetUsage  NumDaysInternetUse  RoomType  RoomRate
+-----  ----------  ---------  ------------  ----------  -----------  -------------  -----------  ------------  -------------  ------------------  --------  --------
+    1         211          3  2                      7         2014  2                       11          2014  NO             Deluxe              Suite     295
+    2         214          2  2                      2         2014  2                       12          2014  NO             Basic               no        view
+    3         216          4  2                      2         2014  2                       13          2014  NO             Suite               255
+    4         220          5  2                      3         2014  2                       12          2014  YES            2                   Basic     w/view
+    5         221          3  2                      3         2014  2                       12          2014  NO             Luxury              195
+    6         223          5  2                      7         2014  2                       13          2014  NO             Suite               255
+    7         238          4  1                     31         2014  2                       13          2014  YES            10                  Basic     w/view
+    8         241          1  2                      1         2014  2                       13          2014  YES            3                   Luxury    195
+    9         244          5  2                      3         2014  2                       12          2014  YES            9                   Deluxe    Suite
+   10         247          4  2                      7         2014  2                       11          2014  YES            4                   Basic     no
+   11         248          4  2                      8         2014  2                       13          2014  YES            5                   Basic     no
+   12         253          3  2                      2         2014  2                       12          2014  YES            7                   Suite     255
+   13         255          5  2                      8         2014  2                       13          2014  NO             Basic               w/view    155
+   14         270          1  2                      4         2014  2                       12          2014  NO             Deluxe              Suite     295
+   15         272          2  2                      2         2014  2                       11          2014  YES            7                   Suite     255
+

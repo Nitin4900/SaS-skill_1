@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_epa_mpg_proc_import",
+  "source_file": "HW2_2b.sas",
+  "source_blob_sha": "c6dca23b70201cff58dc55cca53e948c7754dc1e",
+  "source_commit": "b15e090ca7528048006e16d58bb10ecdf1832cba",
+  "notes": "PROC IMPORT (DBMS=CSV, GETNAMES=YES, DATAROW=2) of a 10-row EPA_MPG.csv sample into WORK.EPA_MPG_import2, then PROC PRINT and PROC CONTENTS. PROC IMPORT needs an actual file, so the hardcoded Windows path (which in the original also had a stray mid-filename line break) is replaced by first writing the sample rows to a FILENAME ... TEMP fileref via DATA _NULL_ / PUT, then importing from that fileref -- so the bundle is still a single self-contained script the shipped run_jenner.sh runner (which uploads only script text, no input/ files) can submit. PROC IMPORT options and both PROCs kept exactly as authored. Note: the 'Writing to fileref epamock (...)' log lines embed a nondeterministic run-scoped temp path, so expected.json intentionally pins only the deterministic NOTE lines (Imported/PRINT/CONTENTS row+column counts), not those two path lines. This is the most complete of the near-identical HW2_2a/HW2_2b pair, chosen to represent the PROC IMPORT technique (distinct from the raw INFILE/INPUT scripts in HW1_1b/c/d/e)."
+}

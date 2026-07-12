@@ -1,0 +1,50 @@
+PROC CONTENTS
+-------------------------------------------------------------------------------
+
+Data Set Name: MyData1.EPA_MPG
+Observations:  16
+Variables:     16
+
+Variables (in alphabetical order):
+
+  #  Variable            Type    Len  Format  Label
+---  ------------------  ----  -----  ------  ----------------
+  1  AvgMPG              Char    200          
+  2  Class               Char    200          
+  3  DriveType           Char    200          
+  4  EngineDisplacement  Char    200          
+  5  FuelDelivery        Char    200          
+  6  Gears               Char    200          
+  7  Horsepower          Char    200          horsepower (HP)
+  8  Manufacturer        Char    200          manufacturername
+  9  ModelName           Char    200          
+ 10  ModelYear           Char    200          
+ 11  MPG_City            Char    200          
+ 12  MPG_Hwy             Char    200          
+ 13  Rank                Char    200          
+ 14  Transmission        Char    200          
+ 15  VehicleType         Char    200          
+ 16  Weight              Char    200          weight (lbs)
+
+-------------------------------------------------------------------------------
+
+
+  Obs  Rank  Class  ModelYear       Manufacturer        ModelName  VehicleType  Weight  DriveType           Transmission  Gears  FuelDelivery  Horsepower  EngineDisplacement  MPG_City  MPG_Hwy  AvgMPG
+-----  ----  -----  ---------  -----------------  ---------------  -----------  ------  ---------  ---------------------  -----  ------------  ----------  ------------------  --------  -------  ------
+    1  Rank  Class  ModelYear  Manufacturer       ModelName        VehicleType  Weight  DriveType  Transmission           Gears  FuelDelivery  Horsepower  EngineDisplacement  MPG_City  MPG_Hwy  AvgMPG
+    2  Low   Car    1975       GM                 TORONADO         Sedan/Wagon  5500    Front      Automatic              Carb   175           455         7.7                 9.4
+    3  Low   Car    1976       Jaguar Land Rover  JENSEN           Sedan/Wagon  4500    Rear       Automatic              Carb   250           440         7.7                 9.9
+    4  Low   Car    1977       BMW                ROLLS ROYCE      Sedan/Wagon  5500    Rear       Automatic              Carb   170           412         7.8                 8.9
+    5  Low   Car    1978       Stellantis         MONACO           Sedan/Wagon  5000    Rear       Automatic              Carb   240           440         7.5                 8.7
+    6  Low   Car    1979       Aston Martin       ASTON MARTIN V8  Sedan/Wagon  4500    Rear       Manual                 Carb   60            326         6.8                 9.7
+    7  Low   Car    1980       Aston Martin       79 ASTON MARTIN  Sedan/Wagon  4500    Rear       Manual                 Carb   275           326         6.8                 9.7
+    8  Low   Car    1981       BMW                CAMARGUE         Sedan/Wagon  5500    Rear       Automatic              Port   170           412         8                   9.5
+    9  Low   Car    1981       BMW                CORNICHE         Sedan/Wagon  5500    Rear       Automatic              Port   170           412         8                   9.5
+   10  Low   Car    1982       Stellantis         QUATTROPORTE     Sedan/Wagon  5000    Rear       Automatic with Lockup  Carb   288           301         7.6                 9.8
+   11  Low   Car    1983       Stellantis         QUATTROPORTE     Sedan/Wagon  5000    Rear       Automatic with Lockup  Carb   288           301         7.6                 9.8
+   12  Low   Car    1984       Stellantis         QUATTROPORTE     Sedan/Wagon  5000    Rear       Automatic with Lockup  Carb   288           301         7.6                 9.8
+   13  Low   Car    1985       Stellantis         QUATTROPORTE     Sedan/Wagon  5000    Rear       Automatic with Lockup  Carb   288           301         7.6                 9.8
+   14  Low   Car    1986       VW                 COUNTACH         Sedan/Wagon  3500    Rear       Manual                 Port   420           315         6.1                 10.4
+   15  Low   Car    1987       VW                 COUNTACH         Sedan/Wagon  3500    Rear       Manual                 Port   420           315         6.1                 10.4
+   16  Low   Car    1988       VW                 COUNTACH         Sedan/Wagon  3500    Rear       Manual                 Port   420           315         6.1                 10.4
+

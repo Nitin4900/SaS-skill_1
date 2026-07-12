@@ -1,0 +1,17 @@
+NOTE: Option OBS changed to 100.
+NOTE: Library MYDATA1 assigned path=..
+NOTE: DATA MyData1.EPA_MPG
+
+NOTE: Processing inline DATALINES (16 lines)
+
+NOTE: Read 16 rows from DATALINES.
+NOTE: Wrote MyData1.EPA_MPG (16 rows, 16 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC CONTENTS data=MyData1.EPA_MPG
+
+NOTE: PROC CONTENTS completed: 16 observations, 16 variables
+NOTE: PROC PRINT data=MyData1.EPA_MPG
+
+NOTE: PROC PRINT completed: 16 observations printed, 16 variables

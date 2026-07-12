@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_epa_mpg_labeled_contents",
+  "source_file": "HW1_1e.sas",
+  "source_blob_sha": "6f6d46eceef4ff8802244570047212a2d60aab80",
+  "source_commit": "b15e090ca7528048006e16d58bb10ecdf1832cba",
+  "notes": "LIBNAME + INFILE with dlm=',' reading a 15-row EPA_MPG.csv sample, LABEL statement (Manufacturer/Weight/Horsepower), PROC CONTENTS, PROC PRINT. Hardcoded Windows path replaced with an inline DATALINES block carrying the same sample rows, so the bundle is a single self-contained script the shipped run_jenner.sh runner (which uploads only script text, no input/ files) can actually submit; INPUT, LABEL, and both PROCs kept exactly as authored (this is the most complete of the near-identical HW1_1c/HW1_1d/HW1_1e trio, so it was picked to represent that technique). While building this bundle we found and filed a genuine Jenner engine bug (numeric-declared INPUT variables silently retyped to Char when the data includes non-numeric text -- see EastAgile/jenner-language PR #14930 / regression test 404134); the bundle still ships because the run itself completes with status=ok/exit_code=0 and no ERROR in the log, faithfully capturing real (if imperfect) engine behavior on the student's own code."
+}
