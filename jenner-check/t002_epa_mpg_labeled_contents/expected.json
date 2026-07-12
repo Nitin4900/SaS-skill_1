@@ -1,0 +1,15 @@
+{
+  "_captured_at": "2026-07-12T12:07:00Z",
+  "_captured_run_id": "r_6eb1ea941e424a2d9c1c6e42ef5374d5",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: DATA MyData1.EPA_MPG",
+    "NOTE: Read 16 rows from DATALINES.",
+    "NOTE: Wrote MyData1.EPA_MPG (16 rows, 16 columns).",
+    "NOTE: PROC CONTENTS completed: 16 observations, 16 variables",
+    "NOTE: PROC PRINT completed: 16 observations printed, 16 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

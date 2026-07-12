@@ -1,0 +1,14 @@
+NOTE: Option OBS changed to 100.
+NOTE: Library MYDATA3 assigned path=..
+NOTE: DATA hotel_data
+
+NOTE: Processing inline DATALINES (15 lines)
+
+NOTE: Read 15 rows from DATALINES.
+NOTE: Wrote hotel_data (15 rows, 12 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=hotel_data
+
+NOTE: PROC PRINT completed: 15 observations printed, 12 variables

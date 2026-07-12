@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_epa_mpg_infile_default",
+  "source_file": "HW1_1b.sas",
+  "source_blob_sha": "0775e146ce512246b9d482efd630cf87b543a204",
+  "source_commit": "b15e090ca7528048006e16d58bb10ecdf1832cba",
+  "notes": "LIBNAME + INFILE (default whitespace-delimited INPUT, no dlm=) reading a 10-row EPA_MPG.csv sample, then PROC PRINT. Hardcoded Windows path (E:\\Users\\nxk220078\\Desktop\\Assignment1\\EPA_MPG.csv) replaced with an inline DATALINES block carrying the same sample rows, so the bundle is a single self-contained script the shipped run_jenner.sh runner (which uploads only script text, no input/ files) can actually submit; INPUT statement and PROC PRINT kept exactly as authored. Because the script has no dlm=',' (unlike HW1_1c/1d/1e which add it), each comma-separated line is read as one long whitespace token per field slot -- this is the original assignment's own naive-parse step, faithfully reproduced, not a bug we introduced."
+}
